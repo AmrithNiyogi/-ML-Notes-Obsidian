@@ -1,0 +1,9 @@
+- To reduce complexity
+	- Time complexity
+		- less computation
+	- Space complexity
+		- fewer parameters
+- Save cost of extracting unnecessary features
+- Simpler models are more robust on small datasets
+- More interpretable; simpler explanation
+- Data Visualisation if plotted in 2/3 dimensions

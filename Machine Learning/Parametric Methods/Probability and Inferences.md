@@ -1,0 +1,9 @@
+- Result of tossing a coin is either {Heads, Tails}
+- <font color="#00b050">Unobservable variables, z and Observable variables x</font>:
+	- $x = f(z)$
+- Let Random Variable $X \epsilon \lbrace 1, 0 \rbrace$
+	- $$Bernoulli:\ P\lbrace X=1 \rbrace = p_{0}^{x}(1-p_{0})^{(1-x)} $$
+- If we don't know P(X)  and need to estimate it from sample; use statistics.
+- Sample X, containing N examples drawn from probability distribution p(x)
+	- $$Estimation: p_{0} = \frac{\#\lbrace Heads \rbrace}{\#\lbrace Tails \rbrace} = \sum_{t} \frac{x^t}{N}$$
+- 

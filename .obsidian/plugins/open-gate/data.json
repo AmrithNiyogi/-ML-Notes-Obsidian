@@ -1,0 +1,16 @@
+{
+  "uuid": "281g1m191ee79n0fvxrur",
+  "gates": {
+    "aHR0cHM6Ly9udW1weS5vcmcvZG9jL3N0YWJsZS9yZWZlcmVuY2UvaW5kZXguaHRtbCM=": {
+      "id": "aHR0cHM6Ly9udW1weS5vcmcvZG9jL3N0YWJsZS9yZWZlcmVuY2UvaW5kZXguaHRtbCM=",
+      "title": "Numpy",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9udW1weS5vcmcvZG9jL3N0YWJsZS9yZWZlcmVuY2UvaW5kZXguaHRtbCM%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": false,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://numpy.org/doc/stable/reference/index.html#",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

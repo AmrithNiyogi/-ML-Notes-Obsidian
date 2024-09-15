@@ -1,0 +1,16 @@
+
+
+- [[Index - Classification]]
+- [[Index - Learning by Regression|Index - Learning by Regression]]
+- [[Index - Learning a class]]
+- [[Confusion Matrix]]
+- [[Vapnik-Chervonenkis (VC) Dimension]]
+- [[Model Complexity]]
+- [[Noise]]
+- [[Probably Approximately Correct (PAC) Learning]]
+- [[Underfitting and Overfitting]]
+- [[Index - Regression]]
+- [[Triple Trade-Off]]
+- [[]]
+- [[]]
+- [[]]

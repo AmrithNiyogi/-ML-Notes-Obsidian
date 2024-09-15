@@ -1,0 +1,16 @@
+
+- An algorithm is a <mark style="background: #CACFD9A6;">set of rules</mark> that a machine follows to achieve a particular goal
+	- Can be considered as a recipe that defines the inputs, the output and all the steps needed to get from the inputs to the output.
+- A dataset is a <mark style="background: #CACFD9A6;">table with the data from which the machine learns.</mark>
+- The dataset contains the features and the target to predict.
+- When dataset is used to induce a model, it is training data.
+- An instance is a row in the dataset.
+- The features are the inputs used for prediction or classification. A feature is a column in the dataset.
+- Categorical variable: 
+	- Contain a <mark style="background: #CACFD9A6;">finite number of categories or distinct groups</mark>. Categorical data might not have a logical order. E.g., categorical predictors include gender, material type, and payment method.
+- Discrete variable: 
+	- Numeric variables that have a <mark style="background: #CACFD9A6;">countable number of values between any two values</mark>. A discrete variable is <mark style="background: #CACFD9A6;">always numeric</mark>. E.g., the number of customer complaints or the number of flaws or defects.
+- Continuous variable: 
+	- Numeric variables that have an <mark style="background: #CACFD9A6;">infinite number of values between any two values</mark>. A continuous variable can be <mark style="background: #CACFD9A6;">numeric or date/time</mark>. E.g., the length of a part or the date and time a payment is received.
+- Independent variables (features) are the input variables.
+	- Dependent variables are the output of the process.

@@ -1,0 +1,14 @@
+- GIven pairwise distance between N points in d dimensional space, $d_{ij}, i, j = 1,\dots,N$; MDS places these N points on a  low-dim map such that distances are preserved (by feature embedding)
+- Example: Road travel distances between cities approximated on map
+- Squared Euclidean distance between 2 points:
+	- $$d^{2}_{rs} = ||x^{r}- x^{s}||^{2} = \sum_{j=1}^{d}(x^{r}_{j} - x^{s}_{j})^{2}= \sum^{d}_{j=1}(x^{r}_{j})^{2} - \sum^{d}_{j=1}x^{r}_{j}x^{s}_{j} + \sum^{d}_{j=1}(x^{s}_{j})^2$$
+	- $$d^{2}_{rs}= b_{rr} + b_{ss} - 2b_{rs}$$
+-  <font color="#4bacc6">Classical Multidimensional Scaling (MDS)</font> - Linear Transformation
+	- $$z = g(x|W) = W^{T}x$$
+	- Where, W is transformation matrix and z is reduced dim data points
+- <font color="#4bacc6">Sammon Mapping</font> - Non Linear Mapping
+	- Sammon Stress is used to measure the quality of mapping (error)
+	- $z = g(x|\theta)$; find $\theta$ that minimizes the Sammon stress
+	- $$E(\theta|X) = \sum_{r,s} \frac{(||z^{r}-z^{s}|| - ||x^{r}- x^{s}||)^2}{||x^{r}-x^{s}||^2}$$
+	- $$E(\theta|X) = \sum_{r,s} \frac{(||g(x^{r}|\theta)-g(x^{s}|\theta)|| - ||x^{r}- x^{s}||)^2}{||x^{r}-x^{s}||^2}$$
+	- 

@@ -1,0 +1,16 @@
+- **Definition**: 
+	- Supervised learning is a type of machine learning where the algorithm is trained on a labeled dataset. This means each training example is paired with an output label or value.
+- **Goal**: 
+	- The goal of supervised learning is to learn a mapping from inputs to outputs that can be used to predict the output for new, unseen data.
+- **Types**: 
+	- There are two main types of supervised learning:
+	    - Classification: Predicting a categorical label (e.g., spam vs. non-spam emails).
+	    - Regression: Predicting a continuous value (e.g., house prices based on features like size and location).
+- **Training Process**: 
+	- During training, the algorithm adjusts its parameters to minimize the difference between its predictions and the actual labels in the training data. This is often done using a loss function.
+- **Evaluation**: 
+	- After training, the model's performance is evaluated using metrics such as accuracy, precision, recall, or mean squared error, depending on the problem type.
+- **Common Algorithms**: 
+	- Examples of supervised learning algorithms include linear regression, logistic regression, decision trees, support vector machines (SVM), and neural networks.
+- **Applications**: 
+	- Supervised learning is widely used in applications such as image classification, spam detection, medical diagnosis, and financial forecasting.

@@ -1,0 +1,4 @@
+- Start with random initial weights, at each iteration adjust weights to minimize the error.
+	- Error on single instance pair with index $t$ with $(x^{t}, r^{t})$
+	- Update Rule:
+		- where $\eta$

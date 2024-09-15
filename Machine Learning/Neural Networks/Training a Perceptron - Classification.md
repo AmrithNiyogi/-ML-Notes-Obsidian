@@ -1,0 +1,4 @@
+- Single Sigmoid output (k=2):
+	- Cross Entropy
+	- Using Gradient Descent
+- k > 2 classes:

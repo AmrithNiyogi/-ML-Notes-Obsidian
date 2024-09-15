@@ -1,0 +1,6 @@
+- Underfitting happens when a model is too simple to represent the underlying patterns in the data. 
+- It fails to learn the relationship between features and the target variable effectively, resulting in poor performance on both training and unseen data. 
+- This often indicates that the model is not complex enough to capture the underlying trends.
+- The model’s inability to capture the data’s complexity means it won't generalize well to new data. 
+- It's essentially too naive, lacking the capacity to understand or learn from the intricate patterns in the dataset. 
+- Underfitting suggests that the model's capacity is limited or that the data has not been represented well enough.

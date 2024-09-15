@@ -1,0 +1,12 @@
+- [[Why reduce Dimensionality]]
+- [[Feature Selection vs Feature Extraction]]
+- [[Subset Selection]]
+- [[PCA - Principal Component Analysis]] 
+- [[How to choose k]]
+- [[Scree Graph to choose k]]
+- [[Factor Analysis]]
+- [[PCA vs FA]]
+- [[Multidimensional Scaling]]
+- [[Linear Discriminant Analysis]]
+- [[Fisher's Linear Discriminant]]
+- 

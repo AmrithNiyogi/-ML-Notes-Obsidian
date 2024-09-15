@@ -1,0 +1,6 @@
+- Overfitting occurs when a model learns not just the underlying patterns but also the noise and specific details of the training data. 
+- It essentially memorizes the training data instead of learning the general trends. 
+- As a result, while it performs exceptionally well on the training data, it struggles to generalize to new, unseen data.
+- An overfitted model is too tailored to the training data, making it highly sensitive to fluctuations and noise. 
+- It indicates that the model is too complex, capturing not only the useful patterns but also irrelevant details, which leads to poor performance on validation or test datasets. 
+- This suggests that the model might need to be simplified or the training process adjusted to avoid over-reliance on the specific training examples.

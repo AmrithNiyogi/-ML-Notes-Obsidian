@@ -1,0 +1,14 @@
+- Used in both classification and regression
+- Find best subset of features having least number of dimensions that most contribute to accuracy
+- For $d$ dimensions, there are $2^d$ subsets
+- Two approaches
+	- *Forward Selection*
+		- Add best feature at each step <font color="#00b050">(wrapper approach)</font>
+		- Set of features, F initially $\Phi$
+		- At each iteration, find the best new feature, $j = argmin_{i} E(F  \ \cup \ x_{i})$
+		- Add $x_{j}$ to F is $E(F \ \cup \ x_{j}) < E(F)$
+		- **Linear Search** - Add 1 at a time and remove 1 at a time
+		- **Floating Search** - Add $k$, remove $l$ at a time
+	- *Backward Selection*
+		- Start with all the features and remove one at a time that decreases the error most
+- $O(d^{2}) \to [Hill \ Climbing \ Algorithm]$

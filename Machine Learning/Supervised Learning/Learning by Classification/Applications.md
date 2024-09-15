@@ -1,0 +1,21 @@
+
+
+- Pattern Recognition:
+	- Optimal character recognition: 
+		- recognize character codes from images
+	- Different handwriting styles, many possible ways to the same character (multi-class)
+- Face Recognition:
+	- Identify people from images
+	- Pose, lighting, occlusion (glasses, beard), make-up, hair style
+- Medical Diagnosis:
+	- Identify illness of patients from symptoms
+	- Wrong decision may lead to wrong or no treatment; in cases of doubt, refer to human expert
+- Speech Recognition:
+	- Identify words of same languages as in sound signals
+	- Same word pronounce differently; temporal dependency
+- Spam Filtration
+- Biometrics:
+	- Recognition/authentication using physical and/or behavioral characteristics: 
+		- Face, iris, signature, etc.
+- Outlier Detection:
+	- Exceptions not covered by the rule- anomalies, e.g., fraud

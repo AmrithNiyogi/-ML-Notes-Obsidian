@@ -1,0 +1,7 @@
+- Used for classification and regression
+- Sample is drawn from some distribution e.g. Gaussian, Binomial, ..
+- <font color="#00b050">Density Estimation</font>: estimate p(x)
+	- Classification: estimate class densities, $p(x|C_{i})$ and $P(C_{i})$, to be able to calculate the posteriors, $P(C_{i} | x)$
+	- Regression: estimate density, p(y|x)
+- Parametric Estimations: 
+	- Assume a form for $p(x| \theta)$ and  estimate $\theta$, its sufficient statistics, using X e.g., $N(\mu, \sigma^2)$ where $\theta = \lbrace \mu,\sigma^2 \rbrace$

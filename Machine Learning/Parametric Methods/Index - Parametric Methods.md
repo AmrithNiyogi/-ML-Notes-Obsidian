@@ -1,0 +1,14 @@
+- [[Probability and Inferences]]
+- [[Machine Learning/Parametric Methods/Classification|Classification]]
+- [[Baye's Classifier]]
+- [[Baye's Classifier for Multi-class classification]]
+- [[Parametric Estimation]]\
+- [[Maximum Likelihood Estimation]]
+- [[Bernoulli's Distribution]]
+- [[Multinomial Distribution]]
+- [[Gaussian (Normal) Distribution]]
+- [[Bias and Variance]]
+- [[Bias and Variance - MSE]]
+- [[Baye's Estimator]]
+- [[Parametric Classification]]
+- 

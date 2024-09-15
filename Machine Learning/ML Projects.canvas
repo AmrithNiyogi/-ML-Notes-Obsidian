@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d4b52eb8de206594","type":"text","text":"Projects on ML","x":-320,"y":-740,"width":250,"height":60},
+		{"id":"215d31000817cbdb","x":-140,"y":-605,"width":250,"height":60,"type":"text","text":"Neural Networks"},
+		{"id":"7f224e979d42637c","type":"text","text":"Predictions","x":-520,"y":-605,"width":260,"height":60}
+	],
+	"edges":[
+		{"id":"202140b08e14c1f3","fromNode":"d4b52eb8de206594","fromSide":"bottom","toNode":"7f224e979d42637c","toSide":"top"},
+		{"id":"27f7ba0c33ac86c9","fromNode":"d4b52eb8de206594","fromSide":"bottom","toNode":"215d31000817cbdb","toSide":"top"}
+	]
+}
