@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47203c599052a826",
+        "id": "7fca0e2d623f1d48",
         "type": "tabs",
         "children": [
           {
-            "id": "964bf7b41071c0fe",
+            "id": "b188beb13fcd7640",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -112,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +171,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "964bf7b41071c0fe",
+  "active": "b188beb13fcd7640",
   "lastOpenFiles": [
+    "Machine Learning/Clustering/K- Means/Questions and Solutions.md",
+    "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916123705.png",
+    "Machine Learning/Clustering/K- Means/k-Means Algorithm.md",
+    "Machine Learning/Clustering/K- Means/k-Means Example.md",
+    "Machine Learning/Clustering/K- Means/Photos",
+    "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916113901.png",
+    "Machine Learning/Clustering/K- Means/Introduction to K-Means.md",
+    "Machine Learning/Clustering/K- Means/Index - K Means.md",
+    "Machine Learning/Clustering/K- Means/k-Means Clustering.md",
+    "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
     "Machine Learning/Dimensionality Reduction/For Multiclass (k gt 2).md",
     "Machine Learning/Clustering/Hierarchical Clustering.md",
     "Machine Learning/Clustering/Photos/Pasted image 20240916111316.png",
@@ -200,8 +202,6 @@
     "Machine Learning/Clustering/Examples/Index - Clustering Examples.md",
     "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105046.png",
     "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105228.png",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105207.png",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105149.png",
     "Machine Learning/Clustering/Examples/Photos",
     "Machine Learning/Clustering/Examples",
     "Machine Learning/Clustering/Choosing the number of clusters, k.md",
@@ -213,20 +213,12 @@
     "Machine Learning/Clustering/Mixture Densities.md",
     "Machine Learning/Clustering/Semiparametric Density Estimation.md",
     "Machine Learning/Clustering/E-M Algorithm.md",
-    "Machine Learning/Clustering/K- Means/K Means.md",
-    "Machine Learning/Clustering/K- Means/Questions and Solutions.md",
-    "Machine Learning/Clustering/K- Means/Index - K Means.md",
-    "Machine Learning/Clustering/K- Means/k-Means Example.md",
-    "Machine Learning/Clustering/K- Means/k-Means Algorithm.md",
     "Machine Learning/Clustering/K- Means",
-    "Machine Learning/Clustering/K- Means/k-Means Clustering.md",
-    "Machine Learning/Types of Machine Learning/Index - Types of Machine Learning.md",
     "Machine Learning/Index - Machine Learning.md~",
     "LICENSE",
     "Machine Learning/Clustering",
     "README.md~",
     "Machine Learning/Neural Networks",
-    "Machine Learning/Non-Parametric Methods",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Maps - Supervised learning/Mind Map - Supervised Learning.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map - Parametric Methods/Mind Map - Parametric Methods.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map.canvas",

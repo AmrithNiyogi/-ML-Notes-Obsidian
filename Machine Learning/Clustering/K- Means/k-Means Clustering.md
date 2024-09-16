@@ -1,0 +1,9 @@
+- Each cluster is defined by a centroid
+- Partitioning Criterion - 
+	- $$\vec{\mu}(\omega) = \frac{1}{|\omega|}\sum_{\vec{x} \epsilon \omega} \vec{x}$$
+- Try to find minimum average squared difference by iterating two steps - 
+	- Reassignment:
+		- Assign each vector to its closes centroid
+	- Re-computation: 
+		- Recompute each centroid as the average of the vectors that were assigned to it in reassignment
+- 
