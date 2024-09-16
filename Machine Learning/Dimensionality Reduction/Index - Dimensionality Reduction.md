@@ -9,4 +9,5 @@
 - [[Multidimensional Scaling]]
 - [[Linear Discriminant Analysis]]
 - [[Fisher's Linear Discriminant]]
-- 
+- [[For Multiclass (k gt 2)]]
+- [[PCA vs LDA]]

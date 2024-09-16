@@ -1,0 +1,9 @@
+- Within-class scatter:
+	- $$S_{W} = \sum^{K}_{i=1}S_{i}$$
+	- $$S_{i} = \sum_{t} r^{t}_{i}(x^{t}-m_{i})(x^{t}-m_{i})^r$$
+- Between-class scatter:
+	- $$S_{B} = \sum_{i=1}^{K}N(m_{i} - m)(m_{i} - m)^{r}$$
+	- $$m = \frac{1}{k}\sum_{i=1}^{K}m_{i}$$
+- Find $W$ that max
+	- $$J(W) = \frac{|W^{T}S_{B}W|}{|W^{T}S_{W}W|}$$
+- The largest eigenvectors of $S_{W}^{-1}S_{B}$ are the solution

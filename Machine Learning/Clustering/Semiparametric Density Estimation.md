@@ -1,0 +1,11 @@
+- Parametric:
+	- Assumes a single density function $p(x|C_{i})$$p(x|C_{i})$
+	- Pros:
+		- Problem is reduced to estimation of small number of parameters
+	- Cons:
+		- Parametric models are rigid, may increases bias.
+- Semi-parametric:
+	- $p(x|C_{i})$ is a mixture of densities
+	- E.g., Optical Character Recognition, Speech Recognition 
+- Non-parametric:
+	- No structure to the data

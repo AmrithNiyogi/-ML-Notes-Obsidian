@@ -1,0 +1,6 @@
+- Dimensionality reduction methods find correlations between features and group features
+- Clustering methods find similarities between instances and group instances
+	- Allows knowledge extraction through number of clusters
+	- prior probabilities
+	- cluster parameters - center, range of features, etc
+	- E.g., custom relationship management

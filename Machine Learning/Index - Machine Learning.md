@@ -5,5 +5,8 @@
 - [[Index - Supervised Learning]]
 - [[Index - Parametric Methods]]
 - [[Index - Dimensionality Reduction]]
+- [[Index - Clustering]]
+- [[Index - Non Parametric Methods]]
+- [[Index - Neural Networks]]
 - [[ML Projects.canvas|ML Projects]]
 - 

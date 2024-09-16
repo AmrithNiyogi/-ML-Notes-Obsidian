@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4551eb2e088591",
+        "id": "47203c599052a826",
         "type": "tabs",
         "children": [
           {
-            "id": "2483190c2d8c7d79",
+            "id": "964bf7b41071c0fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Neural Networks/Training a Perceptron - Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4f9ea438c8367820",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21cfa4fb3d1bad21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Parametric Methods/Baye's Classifier for Multi-class classification.md",
+                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Neural Networks/Training a Perceptron - Classification.md",
+                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Neural Networks/Training a Perceptron - Classification.md",
+                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Neural Networks/Training a Perceptron - Classification.md"
+                "file": "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md"
               }
             }
           },
@@ -197,54 +179,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2483190c2d8c7d79",
+  "active": "964bf7b41071c0fe",
   "lastOpenFiles": [
-    "Machine Learning/Neural Networks/Training a Perceptron - Regression.md",
-    "Machine Learning/Neural Networks/Training a Perceptron - Classification.md",
-    "Machine Learning/Neural Networks/Training a Perceptron.md",
-    "Machine Learning/TO DO/To Read Up On/Gradient Descent.md",
-    "Machine Learning/Parametric Methods/Baye's Classifier for Multi-class classification.md",
-    "Machine Learning/Parametric Methods/Baye's Classifier.md",
-    "Formula List.md",
-    "Machine Learning/Parametric Methods/Baye's Estimator.md",
-    "Machine Learning/Parametric Methods/Bernoulli's Distribution.md",
-    "Machine Learning/Parametric Methods/Bias and Variance.md",
-    "Machine Learning/Parametric Methods/Bias and Variance - MSE.md",
-    "Machine Learning/Parametric Methods/Classification.md",
-    "Machine Learning/Parametric Methods/Gaussian (Normal) Distribution.md",
-    "Machine Learning/Parametric Methods/Index - Parametric Methods.md",
-    "Machine Learning/Parametric Methods/Maximum Likelihood Estimation.md",
-    "Machine Learning/Parametric Methods/Multinomial Distribution.md",
-    "Machine Learning/Parametric Methods/Parametric Classification.md",
-    "Machine Learning/Supervised Learning/Cross Validation.md",
-    "Machine Learning/Parametric Methods/Parametric Estimation.md",
-    "Machine Learning/Parametric Methods/Probability and Inferences.md",
-    "Machine Learning/Supervised Learning/Learning by Classification/Applications.md",
-    "Machine Learning/Neural Networks/Understanding the brain.md",
-    "Machine Learning/Neural Networks/NN as a paradigm for parallel processing.md",
-    "Machine Learning/Neural Networks/ANN.md",
-    "Machine Learning/TO DO/Assignments/Assignment Answers/Assignment 1 - Readme.md",
+    "Machine Learning/Dimensionality Reduction/For Multiclass (k gt 2).md",
+    "Machine Learning/Clustering/Hierarchical Clustering.md",
+    "Machine Learning/Clustering/Photos/Pasted image 20240916111316.png",
+    "Machine Learning/Clustering/Index - Clustering.md",
+    "Machine Learning/Clustering/Agglomerative Clustering.md",
+    "Machine Learning/Clustering/Agglomerative Clustering Techniques.md",
+    "verbose-log-gdrive-plugin.md",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105447.png",
+    "Machine Learning/Clustering/Examples/Group Average.md",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105501.png",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105512.png",
+    "Machine Learning/Clustering/Examples/Complete Link.md",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105336.png",
+    "Machine Learning/Clustering/Examples/Sample example.md",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105401.png",
+    "Machine Learning/Clustering/Examples/Single Link.md",
+    "Machine Learning/Clustering/Examples/Index - Clustering Examples.md",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105046.png",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105228.png",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105207.png",
+    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105149.png",
+    "Machine Learning/Clustering/Examples/Photos",
+    "Machine Learning/Clustering/Examples",
+    "Machine Learning/Clustering/Choosing the number of clusters, k.md",
+    "Machine Learning/Clustering/Supervised Learning after clustering.md",
+    "Machine Learning/Clustering/Types of Clustering.md",
+    "Machine Learning/Clustering/Cluster Analysis.md",
+    "Machine Learning/Clustering/Photos",
+    "Machine Learning/Clustering/Classes vs. Clusters.md",
+    "Machine Learning/Clustering/Mixture Densities.md",
+    "Machine Learning/Clustering/Semiparametric Density Estimation.md",
+    "Machine Learning/Clustering/E-M Algorithm.md",
+    "Machine Learning/Clustering/K- Means/K Means.md",
+    "Machine Learning/Clustering/K- Means/Questions and Solutions.md",
+    "Machine Learning/Clustering/K- Means/Index - K Means.md",
+    "Machine Learning/Clustering/K- Means/k-Means Example.md",
+    "Machine Learning/Clustering/K- Means/k-Means Algorithm.md",
+    "Machine Learning/Clustering/K- Means",
+    "Machine Learning/Clustering/K- Means/k-Means Clustering.md",
+    "Machine Learning/Types of Machine Learning/Index - Types of Machine Learning.md",
+    "Machine Learning/Index - Machine Learning.md~",
+    "LICENSE",
+    "Machine Learning/Clustering",
+    "README.md~",
     "Machine Learning/Neural Networks",
-    "Machine Learning/Non-Parametric Methods/Untitled.md",
     "Machine Learning/Non-Parametric Methods",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/regression_data/Dataset.data",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/regression_data",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/clustering-data/veggies",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/clustering-data/animals",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/clustering-data/fruits",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Regression.py",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/iris.data",
-    "Machine Learning/TO DO/Assignments/Assignment-2/Assignment-2/Datasets/clustering-data/countries",
-    "Machine Learning/Dimensionality Reduction/Photos/Pasted image 20240822115015.png",
-    "ML-Notes-Obsidian/Machine Learning/Parametric Methods/Photos/Pasted image 20240805190714.png",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/favicon/favicon-32x32.png",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/favicon/favicon-16x16.png",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/favicon/apple-touch-icon.png",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/index-images/user_guide.svg",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/index-images/getting_started.svg",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/index-images/contributor.svg",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/index-images/api.svg",
-    "ML-Notes-Obsidian/Machine Learning/Python Packages/Numpy/numpy-html/_static/plus.png",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Maps - Supervised learning/Mind Map - Supervised Learning.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map - Parametric Methods/Mind Map - Parametric Methods.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map.canvas",

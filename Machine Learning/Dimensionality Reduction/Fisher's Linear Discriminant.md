@@ -15,3 +15,12 @@
 
 	- $s_{1}^{2}+s_{2}^{2}= w^{t}S_{w}w$ where $S_{w} = s_{1} + s_{2}$
 
+- Find $w$ that maximizes $J(w)$
+	- $$J(w) = \frac{w^{T}S_{B}w}{w^{T}S_{W}w} = \frac{|w^{T}(m_{1} - m_{2})|^2}{w^{T}S_{W}w}$$
+- Taking partial derivative with respect to $w$
+	- $$w = c.S^{-1}_{w}(m_{1} - m_{2})$$
+- As $w$ is the required direction and not magnitude, consider and find $w$
+- Parametric Solution
+	- $$w = \sum^{-1}(\mu_{1} - \mu_{2})$$
+	- when $p(x|C_{i}) \sim N\left( \mu_{i}, \sum \right)$
+
