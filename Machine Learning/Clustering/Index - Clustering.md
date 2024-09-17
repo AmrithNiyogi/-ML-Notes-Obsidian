@@ -4,11 +4,12 @@
 - [[Cluster Analysis]]
 - [[Types of Clustering]]
 - [[Index - K Means]]
-- [[E-M Algorithm]]
+- [[Index - EM Algorithm]]
 - [[Supervised Learning after clustering]]
 - [[Hierarchical Clustering]]
 - [[Agglomerative Clustering]]
 - [[Agglomerative Clustering Techniques]]
 - [[Index - Clustering Examples]] 
 - [[Choosing the number of clusters, k]]
+- [[Proximity Matrix]]
 

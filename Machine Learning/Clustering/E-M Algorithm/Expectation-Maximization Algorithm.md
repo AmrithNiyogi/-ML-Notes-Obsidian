@@ -1,0 +1,8 @@
+- Probabilistic approach to find component density parameters and maximize the likelihood of the sample
+- Log Likelihood,
+	- $$L(\phi|X) = \log \prod_{t} p(x^{t}|\phi) = \sum_{t} \log \sum_{i=1}^{k}p(x^{t}|G_{i})P(G_{i})$$
+- Let X be the observable variables and z be the hidden variables
+- Log Likelihood: 
+	- $L(\phi|X)$, in terms of **x**(incomplete)
+- Complete likelihood:
+	- $L_{c}(\phi|X)$, in terms of **x** and **z**

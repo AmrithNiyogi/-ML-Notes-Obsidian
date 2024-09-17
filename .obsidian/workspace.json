@@ -11,8 +11,12 @@
             "id": "b188beb13fcd7640",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Clustering/Proximity Matrix.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Clustering/Proximity Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/Clustering/Proximity Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/Clustering/Proximity Matrix.md"
+              }
             }
           },
           {
@@ -144,14 +152,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "370dd9cb851c39f8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +183,26 @@
       "interactivity:Run Interactivity": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "b188beb13fcd7640",
   "lastOpenFiles": [
+    "Machine Learning/Clustering/Dendrogram Image.png",
+    "Machine Learning/Clustering/Proximity Matrix.md",
+    "Pasted image 20240917182844.png",
+    "Machine Learning/Clustering/Drawing 2024-09-17 18.27.47.excalidraw.md",
+    "Machine Learning/Clustering/Dendrogram(transparent).png",
+    "Machine Learning/Clustering/Dendrogram.png",
+    "Machine Learning/Clustering/Dendrogram.drawio",
+    "Machine Learning/Clustering/Mixture Densities.md",
+    "Machine Learning/Clustering/Index - Clustering.md",
+    "Machine Learning/Clustering/E-M Algorithm/E and M Steps.md",
+    "Machine Learning/Clustering/E-M Algorithm/EM in Gaussian Mixtures.md",
+    "Machine Learning/Clustering/E-M Algorithm/Expectation-Maximization Algorithm.md",
+    "Machine Learning/Clustering/E-M Algorithm/Index - EM Algorithm.md",
+    "Machine Learning/Clustering/E-M Algorithm",
     "Machine Learning/Clustering/K- Means/Questions and Solutions.md",
     "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916123705.png",
     "Machine Learning/Clustering/K- Means/k-Means Algorithm.md",
@@ -186,7 +216,6 @@
     "Machine Learning/Dimensionality Reduction/For Multiclass (k gt 2).md",
     "Machine Learning/Clustering/Hierarchical Clustering.md",
     "Machine Learning/Clustering/Photos/Pasted image 20240916111316.png",
-    "Machine Learning/Clustering/Index - Clustering.md",
     "Machine Learning/Clustering/Agglomerative Clustering.md",
     "Machine Learning/Clustering/Agglomerative Clustering Techniques.md",
     "verbose-log-gdrive-plugin.md",
@@ -195,30 +224,16 @@
     "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105501.png",
     "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105512.png",
     "Machine Learning/Clustering/Examples/Complete Link.md",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105336.png",
     "Machine Learning/Clustering/Examples/Sample example.md",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105401.png",
     "Machine Learning/Clustering/Examples/Single Link.md",
     "Machine Learning/Clustering/Examples/Index - Clustering Examples.md",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105046.png",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105228.png",
     "Machine Learning/Clustering/Examples/Photos",
     "Machine Learning/Clustering/Examples",
-    "Machine Learning/Clustering/Choosing the number of clusters, k.md",
-    "Machine Learning/Clustering/Supervised Learning after clustering.md",
-    "Machine Learning/Clustering/Types of Clustering.md",
-    "Machine Learning/Clustering/Cluster Analysis.md",
     "Machine Learning/Clustering/Photos",
-    "Machine Learning/Clustering/Classes vs. Clusters.md",
-    "Machine Learning/Clustering/Mixture Densities.md",
-    "Machine Learning/Clustering/Semiparametric Density Estimation.md",
-    "Machine Learning/Clustering/E-M Algorithm.md",
     "Machine Learning/Clustering/K- Means",
     "Machine Learning/Index - Machine Learning.md~",
     "LICENSE",
     "Machine Learning/Clustering",
-    "README.md~",
-    "Machine Learning/Neural Networks",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Maps - Supervised learning/Mind Map - Supervised Learning.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map - Parametric Methods/Mind Map - Parametric Methods.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map.canvas",

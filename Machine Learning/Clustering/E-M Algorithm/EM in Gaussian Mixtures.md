@@ -1,0 +1,22 @@
+- Let, $z^{t}_{i} = 1$ if $x^{t}$ belongs to $G_{i}$, 0 otherwise
+- Assume $p(x|G_{i}) \sim N\left( \mu_{i}, \sum_{i} \right)$
+- Let prior probabilities, $P(G_{i})=\pi i$
+	- $$P(z^{t})=\prod^{k}_{t=1}p_{i}(\pi_{i})^{z_{i}^{t}}$$
+- Likelihood of $xt$
+	- $$p(x^{t},z^{t})=\prod^{k}_{t=1}p_{i}(x^{t})^{z_{i}^{t}}$$
+- Joint Density
+	- $$p(x^{t},z^{t}) = P(z^{t})p(x^{t}|z^{t})$$
+- Complete Log likelihood
+	- $$L_{c}(\phi|X,Z) = \log \prod_{t}p(x^{t},z^{t}|\phi)$$
+	- $$= \sum_{t} \log p(x^{t},z^{t}|\phi)$$
+	- $$= \sum_{t} \log P(z^{t}|\phi) + \log p(x^{t}|z^{t}|\phi)$$
+	- $$=\sum_{t}\sum_{i}z^{t}_{i}[\log \pi_{i} + \log p_{i}(x^{t}|\phi)]$$
+- E-step
+	- $$E\Big[L_{c}(\phi|X,Z)|X, \phi^{'}\Big]$$
+	- $$\sum_{t} \sum_{i} E\Big[z^{t}_{i}|X, \phi^{'}\Big][\log \pi_{i} + \log p_{i}(x^{t}|\phi^l)]$$
+	- $$E\Big[z^{t}_{i}|X, \phi^{'}\Big] = \frac{{p(x^{t}|G_{i}\phi^{'})P(G_{i})}}{\sum_{j}p(x^{t}|G_{j}, \phi^{'})P(G_{j})}$$
+	- $$E\Big[z^{t}_{i}|X, \phi^{'}\Big] = P(G_{i}|x^{t},\phi^{l)}\equiv h^{t}_{i}$$
+- M-step:
+	- $$P(G_{i}) = \frac{{\sum_{t}h^{t}_{i}}}{N}$$
+	- $$m^{l+1}_{i} = \frac{{\sum_{t}h^{t}_{i}}x^t}{\sum_{t}h^t_{i}}$$
+	- $$S^{l+1}_{i} = \frac{{\sum_{t}h^t_{i}}(x^{t}-m^{l+1}_{i})(x^{t}-m^{l+1}_{i})^{T}}{\sum_{t} h_{i}^{t}}$$

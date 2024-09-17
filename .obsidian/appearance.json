@@ -1,6 +1,6 @@
 {
   "enabledCssSnippets": [
-    "big-math",
-    "equation-number"
+    "equation-number",
+    "big-math"
   ]
 }

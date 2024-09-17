@@ -1,0 +1,13 @@
+- E step:
+	- Estimate z when given X and current $\phi$
+- M Step:
+	- Find new $\phi^{'}$ when given, x, z and old $\phi$;
+	- $\phi^{'}$ that maximizes E-step
+- Iterate two steps:
+	- E-Step
+		- $$Q(\phi|\phi^{'}) = E[L_{c}(\phi|X,Z)|X,\phi^{'}]$$
+	- M-Step
+		- $$\phi^{l+1} = argmax_{\phi} Q(\phi|\phi^{'})$$
+- It's been proved by Dempster, Laird and Robin that:
+	- An increase in Q increases incomplete likelihood
+	- $$L(\phi^{(l+1)}|X) \ge L(\phi^{'}|X)$$
