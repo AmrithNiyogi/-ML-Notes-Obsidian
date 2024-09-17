@@ -7,6 +7,7 @@
 - [[Index - Dimensionality Reduction]]
 - [[Index - Clustering]]
 - [[Index - Non Parametric Methods]]
-- [[Index - Neural Networks]]
+- [[Index - Decision Trees]]
+- [[Index - Multilayer Perceptron]]
 - [[ML Projects.canvas|ML Projects]]
 - 

@@ -1,0 +1,10 @@
+- Parametric: 
+	- Single model valid over whole space
+- Semi-Parametric: 
+	- Small number of parametric models
+- Nonparametric: 
+	- Similar inputs have similar outputs
+- Given x, find similar/closest past instances from training set and interpolate from these to find right output
+- Nonparametric builds local models as needed
+- Keep the training data; let the data speak for itself
+- Aka lazy/memory-based/case-based/instance-based learning

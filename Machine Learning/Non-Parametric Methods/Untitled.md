@@ -1,1 +1,0 @@
-- Olderst ab

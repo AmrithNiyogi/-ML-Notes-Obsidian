@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Clustering/Proximity Matrix.md",
+                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Clustering/Proximity Matrix.md",
+                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Clustering/Proximity Matrix.md",
+                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Clustering/Proximity Matrix.md"
+                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md"
               }
             }
           },
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,51 +190,52 @@
   },
   "active": "b188beb13fcd7640",
   "lastOpenFiles": [
+    "Machine Learning/Multilayer Perceptron/Multilayer Perceptrons.md",
+    "Machine Learning/Multilayer Perceptron/Learning Boolean Functions - XOR.md",
+    "Machine Learning/Multilayer Perceptron/Learning Boolean Functions.md",
+    "Machine Learning/Multilayer Perceptron/Loss Functions.md",
+    "Machine Learning/Multilayer Perceptron/Activation Functions.md",
+    "Machine Learning/Multilayer Perceptron/Insights on Weight Updates.md",
+    "Machine Learning/Multilayer Perceptron/K greater than 2 outputs.md",
+    "Machine Learning/Multilayer Perceptron/What a Perceptron does.md",
+    "Machine Learning/Multilayer Perceptron/Perceptron.md",
+    "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
+    "Machine Learning/Decision Trees/Types of Decision Trees.md",
+    "Machine Learning/Decision Trees/Index - Decision Trees.md",
+    "Machine Learning/Decision Trees/Overfitting in Decision Trees.md",
+    "Machine Learning/Decision Trees/Learning Rules from Data.md",
+    "Machine Learning/Decision Trees/Rule Extraction.md",
+    "Machine Learning/Decision Trees/Untitled",
+    "Machine Learning/Decision Trees/Regression Trees for various value of Threshold.md",
+    "Machine Learning/Decision Trees/Regression Trees.md",
+    "Machine Learning/Decision Trees/Pruning.md",
+    "Machine Learning/Decision Trees/Example - Entropy.md",
+    "Machine Learning/Decision Trees/Example - Gini Index.md",
+    "Machine Learning/Decision Trees/Example - 1.md",
+    "Machine Learning/Decision Trees/Finding Best Split.md",
+    "Machine Learning/Decision Trees/Best Split.md",
+    "Machine Learning/Decision Trees/Information Gain.md",
+    "Machine Learning/Decision Trees/Measures of Node Impurity.md",
+    "Machine Learning/Decision Trees/Classification Trees.md",
+    "Machine Learning/Decision Trees",
+    "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917225846.png",
+    "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917221141.png",
+    "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917190200.png",
+    "Machine Learning/Non-Parametric Methods/Photos",
+    "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917190122.png",
     "Machine Learning/Clustering/Dendrogram Image.png",
-    "Machine Learning/Clustering/Proximity Matrix.md",
     "Pasted image 20240917182844.png",
-    "Machine Learning/Clustering/Drawing 2024-09-17 18.27.47.excalidraw.md",
     "Machine Learning/Clustering/Dendrogram(transparent).png",
     "Machine Learning/Clustering/Dendrogram.png",
     "Machine Learning/Clustering/Dendrogram.drawio",
-    "Machine Learning/Clustering/Mixture Densities.md",
-    "Machine Learning/Clustering/Index - Clustering.md",
-    "Machine Learning/Clustering/E-M Algorithm/E and M Steps.md",
-    "Machine Learning/Clustering/E-M Algorithm/EM in Gaussian Mixtures.md",
-    "Machine Learning/Clustering/E-M Algorithm/Expectation-Maximization Algorithm.md",
-    "Machine Learning/Clustering/E-M Algorithm/Index - EM Algorithm.md",
     "Machine Learning/Clustering/E-M Algorithm",
-    "Machine Learning/Clustering/K- Means/Questions and Solutions.md",
     "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916123705.png",
-    "Machine Learning/Clustering/K- Means/k-Means Algorithm.md",
-    "Machine Learning/Clustering/K- Means/k-Means Example.md",
     "Machine Learning/Clustering/K- Means/Photos",
     "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916113901.png",
-    "Machine Learning/Clustering/K- Means/Introduction to K-Means.md",
-    "Machine Learning/Clustering/K- Means/Index - K Means.md",
-    "Machine Learning/Clustering/K- Means/k-Means Clustering.md",
-    "Machine Learning/Dimensionality Reduction/Index - Dimensionality Reduction.md",
-    "Machine Learning/Dimensionality Reduction/For Multiclass (k gt 2).md",
-    "Machine Learning/Clustering/Hierarchical Clustering.md",
-    "Machine Learning/Clustering/Photos/Pasted image 20240916111316.png",
-    "Machine Learning/Clustering/Agglomerative Clustering.md",
-    "Machine Learning/Clustering/Agglomerative Clustering Techniques.md",
-    "verbose-log-gdrive-plugin.md",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105447.png",
-    "Machine Learning/Clustering/Examples/Group Average.md",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105501.png",
-    "Machine Learning/Clustering/Examples/Photos/Pasted image 20240916105512.png",
-    "Machine Learning/Clustering/Examples/Complete Link.md",
-    "Machine Learning/Clustering/Examples/Sample example.md",
-    "Machine Learning/Clustering/Examples/Single Link.md",
-    "Machine Learning/Clustering/Examples/Index - Clustering Examples.md",
     "Machine Learning/Clustering/Examples/Photos",
     "Machine Learning/Clustering/Examples",
     "Machine Learning/Clustering/Photos",
     "Machine Learning/Clustering/K- Means",
-    "Machine Learning/Index - Machine Learning.md~",
-    "LICENSE",
-    "Machine Learning/Clustering",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Maps - Supervised learning/Mind Map - Supervised Learning.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map - Parametric Methods/Mind Map - Parametric Methods.canvas",
     "ML-Notes-Obsidian/Machine Learning/Mind Maps/Mind Map.canvas",
