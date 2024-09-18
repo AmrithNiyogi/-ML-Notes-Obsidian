@@ -1,0 +1,18 @@
+- Internal Decision Nodes:
+	- Univariate trees
+		- Uses a single attribute $x_{i}$
+			- If Numeric $x_{i}$
+				- Binary split ($x_{i} > w_{m}$)
+			- If Discrete $x_{i}$
+				- n-way split for all n possible values
+	- Multivariate trees
+		- Uses all attributes, x
+- Leaves:
+	- Classification
+		- Class labels or proportions
+	- Regression
+		- Numeric values
+- Decision Tree representation:
+	- Each internal node tests an attribute
+	- Each branch corresponds to attribute value
+	- Each leaf node assigns a classification

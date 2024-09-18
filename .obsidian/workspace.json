@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
+                "file": "Machine Learning/Decision Trees/Regression Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
+                "file": "Machine Learning/Decision Trees/Regression Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
+                "file": "Machine Learning/Decision Trees/Regression Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md"
+                "file": "Machine Learning/Decision Trees/Regression Trees.md"
               }
             }
           },
@@ -190,6 +190,32 @@
   },
   "active": "b188beb13fcd7640",
   "lastOpenFiles": [
+    "Machine Learning/Decision Trees/Introduction - Decision Trees.md",
+    "Machine Learning/Decision Trees/Overfitting in Decision Trees.md",
+    "Machine Learning/Decision Trees/Types of Decision Trees.md",
+    "Machine Learning/Decision Trees/Finding Best Split.md",
+    "Machine Learning/Decision Trees/Best Split.md",
+    "Machine Learning/Decision Trees/Photos/Pasted image 20240918101306.png",
+    "Machine Learning/Decision Trees/Photos/Pasted image 20240918101257.png",
+    "Machine Learning/Decision Trees/Measures of Node Impurity.md",
+    "Machine Learning/Decision Trees/Photos/Pasted image 20240918101214.png",
+    "Machine Learning/Decision Trees/Classification Trees.md",
+    "Machine Learning/Decision Trees/Index - Decision Trees.md",
+    "Machine Learning/Decision Trees/Information Gain.md",
+    "Machine Learning/Decision Trees/Learning Rules from Data.md",
+    "Machine Learning/Decision Trees/Pruning.md",
+    "Machine Learning/Decision Trees/Regression Trees.md",
+    "Machine Learning/Decision Trees/Regression Trees for various value of Threshold.md",
+    "Machine Learning/Decision Trees/Rule Extraction.md",
+    "Machine Learning/Decision Trees/Univariate Trees.md",
+    "Pasted image 20240918101115.png",
+    "Pasted image 20240918101109.png",
+    "Machine Learning/Decision Trees/Photos/Pasted image 20240918094259.png",
+    "Machine Learning/Decision Trees/Photos/Pasted image 20240918094245.png",
+    "Machine Learning/Decision Trees/Divide and Conquer.md",
+    "Machine Learning/Decision Trees/Photos",
+    "Machine Learning/Decision Trees/Photos/Pasted image 20240918090533.png",
+    "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
     "Machine Learning/Multilayer Perceptron/Multilayer Perceptrons.md",
     "Machine Learning/Multilayer Perceptron/Learning Boolean Functions - XOR.md",
     "Machine Learning/Multilayer Perceptron/Learning Boolean Functions.md",
@@ -199,39 +225,13 @@
     "Machine Learning/Multilayer Perceptron/K greater than 2 outputs.md",
     "Machine Learning/Multilayer Perceptron/What a Perceptron does.md",
     "Machine Learning/Multilayer Perceptron/Perceptron.md",
-    "Machine Learning/Multilayer Perceptron/Index - Multilayer Perceptron.md",
-    "Machine Learning/Decision Trees/Types of Decision Trees.md",
-    "Machine Learning/Decision Trees/Index - Decision Trees.md",
-    "Machine Learning/Decision Trees/Overfitting in Decision Trees.md",
-    "Machine Learning/Decision Trees/Learning Rules from Data.md",
-    "Machine Learning/Decision Trees/Rule Extraction.md",
-    "Machine Learning/Decision Trees/Untitled",
-    "Machine Learning/Decision Trees/Regression Trees for various value of Threshold.md",
-    "Machine Learning/Decision Trees/Regression Trees.md",
-    "Machine Learning/Decision Trees/Pruning.md",
-    "Machine Learning/Decision Trees/Example - Entropy.md",
-    "Machine Learning/Decision Trees/Example - Gini Index.md",
-    "Machine Learning/Decision Trees/Example - 1.md",
-    "Machine Learning/Decision Trees/Finding Best Split.md",
-    "Machine Learning/Decision Trees/Best Split.md",
-    "Machine Learning/Decision Trees/Information Gain.md",
-    "Machine Learning/Decision Trees/Measures of Node Impurity.md",
-    "Machine Learning/Decision Trees/Classification Trees.md",
     "Machine Learning/Decision Trees",
     "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917225846.png",
     "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917221141.png",
-    "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917190200.png",
     "Machine Learning/Non-Parametric Methods/Photos",
-    "Machine Learning/Non-Parametric Methods/Photos/Pasted image 20240917190122.png",
-    "Machine Learning/Clustering/Dendrogram Image.png",
-    "Pasted image 20240917182844.png",
-    "Machine Learning/Clustering/Dendrogram(transparent).png",
-    "Machine Learning/Clustering/Dendrogram.png",
     "Machine Learning/Clustering/Dendrogram.drawio",
     "Machine Learning/Clustering/E-M Algorithm",
-    "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916123705.png",
     "Machine Learning/Clustering/K- Means/Photos",
-    "Machine Learning/Clustering/K- Means/Photos/Pasted image 20240916113901.png",
     "Machine Learning/Clustering/Examples/Photos",
     "Machine Learning/Clustering/Examples",
     "Machine Learning/Clustering/Photos",

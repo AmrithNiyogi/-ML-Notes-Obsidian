@@ -1,0 +1,7 @@
+- Goal:
+	- Find a smallest tree that code the training dataset without errors
+		- NP-complete (Quinlan, 1986)
+- Solution:
+	- <font color="#00b0f0">Greedy heuristics</font>
+		- Choose the <font color="#e36c09">best split</font> in each node
+		- <font color="#e36c09">Decision</font> based on the data that gets to that node
