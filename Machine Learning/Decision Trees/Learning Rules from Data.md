@@ -1,0 +1,13 @@
+- If-Then Rules can be generated in two ways:
+	- Tree Induction: 
+		- BFS; finds all paths simultaneously
+	- Rule Induction: 
+		- DFS; find path at a time
+- Each rule is a conjunction of conditions on attributes
+- Rule covers an example if example satisfies all conditions of the rule
+
+- Sequential Covering: 
+	- Generates one rule at a time, added to the rule base and all examples covered by the rule are removed from training set; process continues till enough rules are added in rule base
+- Well known Rule Induction Algorithms:
+	- IREP (Fürnkrantz and Widmer, 1994)
+	- Ripper (Cohen, 1995)

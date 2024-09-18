@@ -1,0 +1,10 @@
+- Remove subtrees for better generalization (decrease overfitting)
+	- Pre Pruning:
+		- Stopping tree construction early on before it is complete
+	- Post Pruning:
+		- Grow the whole tree until all leaf nodes are pure and then prune subtrees that overfit on the <font color="#00b0f0">pruning set.</font>
+- Pruning Set:
+	- Used to calculate performance of tree to avoid overfitting.
+	- Different from validation set
+- Pre-pruning is faster
+- Post-pruning gives more accurate trees
