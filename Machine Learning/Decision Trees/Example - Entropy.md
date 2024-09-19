@@ -161,7 +161,7 @@ flowchart TD
 ```
 
 
-$$S_{sunny} = \Bigg \{D_{1},D_{2},D_{8},D_{9},D_{11}\Bigg \}$$
+$$S_{sunny} = \bigg \{D_{1},D_{2},D_{8},D_{9},D_{11}\bigg \}$$
 
 
 | Day | Temperature | Humidity | Wind   | PlayTennis |
