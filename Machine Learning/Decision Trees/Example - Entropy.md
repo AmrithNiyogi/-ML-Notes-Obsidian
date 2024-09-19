@@ -161,7 +161,7 @@ flowchart TD
 ```
 
 
-$$S_{sunny} = \bigg \{D_{1},D_{2},D_{8},D_{9},D_{11}\bigg \}$$
+$$S_{sunny} = \{D_{1},D_{2},D_{8},D_{9},D_{11}\}$$
 
 
 | Day | Temperature | Humidity | Wind   | PlayTennis |
@@ -286,7 +286,7 @@ flowchart TD
 | D10 | Mild        | Normal   | Weak   | Yes        |
 | D14 | Mild        | High     | Strong | No         |
 
-$$S_{rain} = \Bigg\{D_{4}, D_{5}, D_{6}, D_{10}, D_{14}\Bigg\}$$
+$$S_{rain} = \{D_{4}, D_{5}, D_{6}, D_{10}, D_{14}\}$$
 #### Attribute - Temperature
 $$Values(Temperature) = \{Hot,Mild,Cool\}$$
 $$S_{rain} = [3+, 2-]$$
