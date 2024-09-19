@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Decision Trees/Example - Entropy.md",
+                "file": "Machine Learning/Decision Trees/Example - Gini Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Decision Trees/Example - Entropy.md",
+                "file": "Machine Learning/Decision Trees/Example - Gini Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Decision Trees/Example - Entropy.md",
+                "file": "Machine Learning/Decision Trees/Example - Gini Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Decision Trees/Example - Entropy.md"
+                "file": "Machine Learning/Decision Trees/Example - Gini Index.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "9d0fe7c5c542976c",
   "lastOpenFiles": [
-    "Machine Learning/Decision Trees/Example - Gini Index.md",
     "Machine Learning/Decision Trees/Example - Entropy.md",
+    "Machine Learning/Decision Trees/Example - Gini Index.md",
     "Machine Learning/Decision Trees/Example - 1.md",
     "Machine Learning/Decision Trees/Divide and Conquer.md",
     "Machine Learning/Decision Trees/Overfitting in Decision Trees.md",
