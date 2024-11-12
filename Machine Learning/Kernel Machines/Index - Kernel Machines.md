@@ -1,0 +1,4 @@
+- [[Kernel Machine]]
+- [[Optimal Separating Hyperplane]]
+- [[SVM - Support Vector Machine]]
+- 

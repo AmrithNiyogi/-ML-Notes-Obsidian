@@ -9,5 +9,11 @@
 - [[Index - Non Parametric Methods]]
 - [[Index - Decision Trees]]
 - [[Index - Multilayer Perceptron]]
+- [[Index - SVM Basics]]
+- [[Index - Kernel Machines]]
+- [[Index - Bayesian Estimation]]
+- [[Index - Hidden Markov Models]]
+- [[Index - Graphical Models]]
+- [[Index - Reinforcement Learning]]
 - [[ML Projects.canvas|ML Projects]]
 - 

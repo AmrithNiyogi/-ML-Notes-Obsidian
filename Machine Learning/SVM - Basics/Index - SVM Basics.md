@@ -1,0 +1,5 @@
+- [[Coordinate Geometry for SVM]]
+- [[Lagrange's Multiplier]]
+- [[KKT (Karush – Kuhn – Tucker)]]
+- [[KKT Example]]
+- [[Primal and Dual Forms]]

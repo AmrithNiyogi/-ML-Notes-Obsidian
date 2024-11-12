@@ -1,0 +1,8 @@
+- Discriminant-based: No need to estimate probability densities first, just estimate the class boundary
+- Define the discriminant in terms of support vectors.
+- Support vectors are cases near the decision boundary
+- These are uncertain and erroneous cases
+- Number of support vectors gives estimate of generalization error
+- Output is written as sum of Influence of support vectors; measured by using kernel functions, measuring similarity between two data points.
+- No need to represent instances as vectors. Complex data types can be directly compared.
+- Convex optimization problem: Have unique optimal solution.
