@@ -1,2 +1,15 @@
-SIMD - single instruction multiple data
-MIMD - multiple instruction multiple data
+- Parallel Processing:
+	- SIMD - single instruction multiple data
+	- MIMD - multiple instruction multiple data
+- Neural Network (NIMD): SIMD with local memory
+- Analogy to Neural Networks
+	- Each processor corresponds to a neuron
+	- Local memory parameters correspond to synaptic weights
+	- The whole structure mimics a neural network
+- Key Challenges
+	- To distribute tasks across the network of processors
+	- To determine local parameter values
+- Solution:
+	- Learning
+		- Instead of manual programming, these machines can learn from examples
+		- This eliminates the need for explicit programming and parameter setting

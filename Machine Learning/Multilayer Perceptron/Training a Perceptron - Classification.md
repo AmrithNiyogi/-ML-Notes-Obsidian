@@ -1,4 +1,8 @@
 - Single Sigmoid output (k=2):
-	- Cross Entropy
-	- Using Gradient Descent
+	- $$y^{t}=sigm\pi d(w^T x^{t})$$
+	 - Cross Entropy
+		 - $$E^{t}(w|x^{t},r^{t}) = -r^{t}\log y^{t} - (1-r^{t})\log(1-y^{t})$$
+	 - Using Gradient Descent
+		 - $$\Delta w^{t}_{j} = \eta(r^{t}-y^{t})x^{t}_{j}$$
 - k > 2 classes:
+	- For the single instance $(x^{t}, r^{t})$, where 
